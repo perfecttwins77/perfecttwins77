@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @perfecttwins77
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on ...
+- 👀 Aspiring Full stack developer 
+- 🌱 Skilled in HTML and CSS, I’m currently learning JavaScript and Python 
+- 💞️ I’m looking to collaborate with ALX SE Program Projects
 - 📫 How to reach me ...
 
 <!---
